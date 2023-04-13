@@ -9,7 +9,7 @@ def sum_two_number(a, b):
 
 # определение переменных
 a = 10
-b = 8.51
+b = 30
 
 # расчет
 print(sum_two_number(a, b))
