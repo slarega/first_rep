@@ -8,8 +8,8 @@ def sum_two_number(a, b):
         return False
 
 # определение переменных
-a = 5
-b = 7.5
+a = 10
+b = 8.51
 
 # расчет
 print(sum_two_number(a, b))
