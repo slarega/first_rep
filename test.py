@@ -1,10 +1,12 @@
+def sum_two_number(a, b):
+    """Сумма переменных"""
+    return a + b
 
+
+# определение переменных
 a = 5
 b = 6
 
-def summ(a, b):
-    c = a + b
-    return c
-
-print(summ(a,b))
+# расчет
+print(sum_two_number(a, b))
 
